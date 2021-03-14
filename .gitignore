@@ -6,4 +6,6 @@
 _site
 codekit-config.json
 Gemfile.lock
+.rakeTasks
+.idea
 node_modules
