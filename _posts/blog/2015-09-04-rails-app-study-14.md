@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title:  Rails 应用开发笔记（十四）
 excerpt: 实现软删除（soft delete）功能
 comments: true

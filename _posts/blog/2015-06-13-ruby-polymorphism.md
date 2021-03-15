@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: 多态与 Ruby
 excerpt: 介绍 Ruby 多态的实现方式
 comments: true

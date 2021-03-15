@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Java 提高篇(三) --- 多态
 excerpt: 方法覆盖和方法重载
 categories: blog

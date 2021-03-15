@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title:  Rails 应用开发笔记（四）
 excerpt: 实现简单的用户访问权限控制功能
 comments: true

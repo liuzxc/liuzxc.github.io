@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Java 提高篇(五) --- 集合类
 excerpt: List, Set, Map
 categories: [java]

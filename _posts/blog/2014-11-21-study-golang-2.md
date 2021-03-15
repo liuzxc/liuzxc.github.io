@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: go 语言学习笔记（二）
 excerpt: golang
 modified:

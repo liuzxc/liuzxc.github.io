@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: tmux 快捷键
 excerpt: 更改tmux默认快捷键
 categories: blog

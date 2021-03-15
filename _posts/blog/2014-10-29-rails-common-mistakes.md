@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: 10个最常见的 Rails 编程错误（译文）
 excerpt: Rails 虽然易于使用，但也很容易被滥用。本文聚焦于10个最常见的 Rails 陷进，并指导你如何避免它们以及由它们引发的问题
 comments: true

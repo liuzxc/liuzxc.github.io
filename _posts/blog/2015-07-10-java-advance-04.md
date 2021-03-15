@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Java 提高篇(四) --- 异常处理
 excerpt: java
 categories: blog

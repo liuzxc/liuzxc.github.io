@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Ruby 中的一些基本概念
 excerpt: 包括访问权限, mixin, code load 等
 categories: blog

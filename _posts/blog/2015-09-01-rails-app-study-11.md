@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title:  Rails 应用开发笔记（十一）
 excerpt: 使用 GitHub 帐户登录应用
 comments: true

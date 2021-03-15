@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title:  Rails 应用开发笔记（十五）
 excerpt: 使用 jQuery 实现自动补全功能
 comments: true

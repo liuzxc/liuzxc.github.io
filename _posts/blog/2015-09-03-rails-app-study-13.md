@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title:  Rails 应用开发笔记（十三）
 excerpt: 使用 StackOverflow 帐户登录应用
 comments: true

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title:  Rails 应用开发笔记（十六）
 excerpt: 使用 Vagrant 构建虚拟开发环境
 comments: true

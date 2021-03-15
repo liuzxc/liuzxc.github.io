@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title:  Rails 应用开发笔记（十）
 excerpt: 在 Rails 中使用 Ajax
 comments: true

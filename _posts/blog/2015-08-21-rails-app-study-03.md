@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title:  Rails 应用开发笔记（三）
 excerpt: 分页功能的实现
 comments: true

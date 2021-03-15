@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title:  Rails 应用开发笔记（九）
 excerpt: 收藏功能的实现
 comments: true

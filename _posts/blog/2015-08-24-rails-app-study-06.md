@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title:  Rails 应用开发笔记（六）
 excerpt: 实现简单的搜索功能
 comments: true

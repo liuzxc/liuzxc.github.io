@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Java 基础
 excerpt: java
 categories: blog

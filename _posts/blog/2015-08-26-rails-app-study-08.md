@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title:  Rails 应用开发笔记（八）
 excerpt: 使用 gravatar 生成用户头像
 comments: true

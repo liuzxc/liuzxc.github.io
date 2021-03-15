@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Ruby 中的类和对象
 excerpt: ruby
 categories: blog

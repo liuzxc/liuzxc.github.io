@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Java 提高篇(六) --- 泛型（Generics）
 excerpt: java
 categories: [java]

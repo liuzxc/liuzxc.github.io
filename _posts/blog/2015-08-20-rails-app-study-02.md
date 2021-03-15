@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title:  Rails 应用开发笔记（二）
 excerpt: 添加用户注册和登录功能
 comments: true

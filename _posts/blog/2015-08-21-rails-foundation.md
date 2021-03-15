@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Rails 开发基础（一）
 excerpt: rails
 categories: blog

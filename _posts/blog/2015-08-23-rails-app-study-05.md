@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title:  Rails 应用开发笔记（五）
 excerpt: 在应用中使用 Bootstrap
 comments: true

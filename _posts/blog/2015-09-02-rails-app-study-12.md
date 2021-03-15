@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title:  Rails 应用开发笔记（十二）
 excerpt: 使用 turbolinks 实现网页进度条
 comments: true

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title:  Rails 应用开发笔记（七）
 excerpt: 支持 Markdown 语法和代码高亮
 comments: true

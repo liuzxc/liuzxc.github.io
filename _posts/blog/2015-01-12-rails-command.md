@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Rails 常用命令
 excerpt: rails
 categories: blog

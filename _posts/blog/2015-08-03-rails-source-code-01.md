@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Rails 源码解读（一）rails console
 excerpt: Rails 源码解读
 comments: true
