@@ -2,7 +2,7 @@
 layout: posts
 title: Rails 开发基础（一）
 excerpt: rails
-categories: [ruby, rails]
+categories: blog
 comments: true
 share: true
 ---

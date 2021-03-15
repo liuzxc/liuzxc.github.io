@@ -4,7 +4,7 @@ title:  Rails 应用开发笔记（十五）
 excerpt: 使用 jQuery 实现自动补全功能
 comments: true
 share: true
-categories: [ruby, rails]
+categories: blog
 ---
 
 最近一段时间在忙着找工作，很久没有更新了，之前做了一个自动补全的功能，花费了我很多时间，因为涉及到很多前端开发相关的知识，包括DOM, js, coffeescript, jquery等等，现在打算详细的描述一下了。很多网站都有用户名或者输入内容自动补全的功能，我实现的是比较简单的一种，即评论区用户名自动补全，在 @ 其他评论人的时候，文本框会自动筛选出所有评论着的名字。

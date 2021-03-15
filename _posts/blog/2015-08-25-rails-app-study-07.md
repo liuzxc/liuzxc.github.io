@@ -4,7 +4,7 @@ title:  Rails 应用开发笔记（七）
 excerpt: 支持 Markdown 语法和代码高亮
 comments: true
 share: true
-categories: [ruby, rails]
+categories: blog
 ---
 
 每当创建文章内容的时候，文本是以纯文本的形式被保存，不支持任何排版格式和语法，连换行符都被忽略了，

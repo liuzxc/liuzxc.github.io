@@ -4,7 +4,7 @@ title:  Rails 应用开发笔记（十六）
 excerpt: 使用 Vagrant 构建虚拟开发环境
 comments: true
 share: true
-categories: [ruby, rails]
+categories: blog
 ---
 
 最近在新工作中接触到了 vagrant 这样一个非常好的工具，便想将其应用到自己的应用当中。[vagrant](https://www.vagrantup.com/) 是一款用来构建虚拟开发环境的工具，非常适合 ruby/python 这类语言开发 web 应用，我们可以通过 vagrant 封装一个 Linux 开发环境，无论你使用什么样的操作系统，你都可以在虚拟机里面跑你的代码，与你本地的环境相隔离。在项目里面，这样的工具太有用了，你不会再听到 “代码在我的机器上跑不起来” 这样的抱怨了，是不是很赞呢！接下来我就尝试让自己的应用通过 vagrant 在虚拟机上跑起来。

@@ -2,7 +2,7 @@
 layout: posts
 title: Java 提高篇(二) --- 内部类（inner class)
 excerpt: 内部类，局部内部类，匿名内部类，静态嵌套类
-categories: [java]
+categories: blog
 comments: true
 share: true
 ---

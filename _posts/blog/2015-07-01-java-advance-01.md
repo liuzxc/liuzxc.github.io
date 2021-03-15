@@ -2,7 +2,7 @@
 layout: posts
 title: Java 提高篇(一) --- Java 关键字
 excerpt: static, abstract, final
-categories: [java]
+categories: blog
 comments: true
 share: true
 ---

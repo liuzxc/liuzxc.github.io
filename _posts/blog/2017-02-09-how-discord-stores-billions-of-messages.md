@@ -1,9 +1,7 @@
 ---
 title:  Discord 如何存储数十亿消息数据
 excerpt: Cassandra 在 Discord 中的应用
-categories:
-  - cassandra
-  - database
+categories: blog
 ---
 
 原文链接: [How Discord Stores Billions of Messages](https://blog.discordapp.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7#.p2vea9li9)

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Learn Mysql
 excerpt: mysql 常见操作
 comments: true

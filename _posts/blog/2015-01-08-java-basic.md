@@ -2,7 +2,7 @@
 layout: posts
 title: Java 基础
 excerpt: java
-categories: [java]
+categories: blog
 comments: true
 share: true
 ---

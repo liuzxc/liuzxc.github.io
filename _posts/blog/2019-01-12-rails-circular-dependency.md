@@ -1,10 +1,6 @@
 ---
 title: 解决 rails 代码里的 circular dependency
-categories:
-  - rails
-tags:
-  - ruby
-  - rails
+categories: blog
 ---
 
 ## rails 中的循环依赖

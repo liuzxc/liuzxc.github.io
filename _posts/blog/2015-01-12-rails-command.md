@@ -2,7 +2,7 @@
 layout: posts
 title: Rails 常用命令
 excerpt: rails
-categories: [rails]
+categories: blog
 comments: true
 share: true
 image:

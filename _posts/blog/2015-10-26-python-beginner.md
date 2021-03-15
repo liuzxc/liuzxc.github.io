@@ -2,7 +2,7 @@
 layout: posts
 title: Python 初探
 excerpt: 寻找 python 和 ruby 的不同之处
-categories: [python]
+categories: blog
 comments: true
 share: true
 ---

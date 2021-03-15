@@ -4,7 +4,7 @@ title:  Rails 应用开发笔记（二）
 excerpt: 添加用户注册和登录功能
 comments: true
 share: true
-categories: [ruby, rails]
+categories: blog
 ---
 
 用户注册和登录功能是web应用的最基本功能之一，Rails 为我们提供了很方便的一些方法去实现这个功能。

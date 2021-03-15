@@ -4,7 +4,7 @@ title:  Rails 应用开发笔记（十一）
 excerpt: 使用 GitHub 帐户登录应用
 comments: true
 share: true
-categories: [ruby, rails]
+categories: blog
 ---
 
 现在很多的应用都支持第三方账户登录，这样可以简化用户登录的流程，为用户带来极大的便利，GitHub 是我

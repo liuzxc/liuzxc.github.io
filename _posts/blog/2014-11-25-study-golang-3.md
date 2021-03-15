@@ -3,7 +3,7 @@ layout: posts
 title: go 语言学习笔记（三）
 excerpt: 理解 go 语言中的 interface
 modified: golang
-categories: [golang]
+categories: blog
 share: true
 ---
 

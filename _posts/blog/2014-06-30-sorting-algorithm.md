@@ -1,9 +1,9 @@
 ---
-layout: posts
+layout: post
 title: Ruby 实现各种排序查找算法
 excerpt: 冒泡排序，快速排序，希尔排序
 comments: true
-categories: [ruby, algorithm]
+categories: blog
 share: true
 ---
 

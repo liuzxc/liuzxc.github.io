@@ -1,9 +1,6 @@
 ---
 title: 通过 docker-compose 安装 ELK 的问题总结
-tags:
-  - docker-compose
-  - ELK
----
+--- 
 
 > [docker-elk Git repo](https://github.com/deviantony/docker-elk)
 

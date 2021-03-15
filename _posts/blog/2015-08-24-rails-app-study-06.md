@@ -4,7 +4,7 @@ title:  Rails 应用开发笔记（六）
 excerpt: 实现简单的搜索功能
 comments: true
 share: true
-categories: [ruby, rails]
+categories: blog
 ---
 
 一般的网站都会有搜索功能，本篇将实现一个简单的搜索功能，搜索匹配的文章标题和内容。

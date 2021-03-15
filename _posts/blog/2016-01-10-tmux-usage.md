@@ -2,7 +2,7 @@
 layout: posts
 title: tmux 快捷键
 excerpt: 更改tmux默认快捷键
-categories: [linux]
+categories: blog
 comments: true
 share: true
 ---

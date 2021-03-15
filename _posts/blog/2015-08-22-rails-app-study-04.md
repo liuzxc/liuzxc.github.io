@@ -4,7 +4,7 @@ title:  Rails 应用开发笔记（四）
 excerpt: 实现简单的用户访问权限控制功能
 comments: true
 share: true
-categories: [ruby, rails]
+categories: blog
 ---
 
 用户访问权限控制是 web 开发中最基础也是最重要的功能，你不会希望用户可以随意更改其他用户的信息。在

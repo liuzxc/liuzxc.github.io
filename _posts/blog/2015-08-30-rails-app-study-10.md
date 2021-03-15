@@ -4,7 +4,7 @@ title:  Rails 应用开发笔记（十）
 excerpt: 在 Rails 中使用 Ajax
 comments: true
 share: true
-categories: [ruby, rails]
+categories: blog
 ---
 
 作为一名后端开发人员，我总是对前端技术心生畏惧，前端技术总要涉及到各种前端语言和框架，比如 HTML，

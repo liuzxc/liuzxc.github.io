@@ -1,8 +1,7 @@
 ---
 title: Python - What's PyPi, pip, easy_install, setuptools, eggs, wheel, Buildout?
 excerpt: 恶心的 Python 包管理
-categories:
-  - python
+categories: blog
 ---
 
 在开始之前，可以先看看下面这篇有意思的博客，可以帮助你更好的了解 Python 的包管理：

@@ -4,7 +4,7 @@ title:  Rails 应用开发笔记（十三）
 excerpt: 使用 StackOverflow 帐户登录应用
 comments: true
 share: true
-categories: [ruby, rails]
+categories: blog
 ---
 
 使用 StackOverflow 帐户登录应用和之前 GitHub 帐户登录应用的原理几乎是一模一样的，代码几乎可以重用，本来无需单独做介绍，但是还是遇到一些问题，花了些时间去排查，还是觉得有必要写下来。个人一开始认为 StackOverflow 应该是属于技术比较牛逼的网站，文档应该比较详尽，至少会有几个语言的示例，但是结果相反，API文档写的比较简略，也没有什么示例，某些内容还没怎么看懂，还好原理和接入 GitHub 是一样的，省了很多时间。

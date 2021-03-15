@@ -1,8 +1,7 @@
 ---
 title: 本地测试微信登录的技巧
 excerpt: AppID、redirect_uri 参数错误
-categories:
-  - wechat
+categories: blog
 ---
 
 最近调试一个 Rails 项目，需要在本地搭建开发环境，这个项目没有注册功能，只能够通过微信扫码登录，

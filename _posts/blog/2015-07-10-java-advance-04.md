@@ -2,7 +2,7 @@
 layout: posts
 title: Java 提高篇(四) --- 异常处理
 excerpt: java
-categories: [java]
+categories: blog
 comments: true
 share: true
 ---

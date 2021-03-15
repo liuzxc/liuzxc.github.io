@@ -4,7 +4,7 @@ title:  Rails 应用开发笔记（九）
 excerpt: 收藏功能的实现
 comments: true
 share: true
-categories: [ruby, rails]
+categories: blog
 ---
 
 如果遇到自己的喜欢的文章，收藏功能必不可少，这次做收藏功能化了我不少时间，一方面是不太熟悉 mongoid document 之间的关联，它与 Active Record 关联有些不同，另外就是不熟悉 Ajax 和 jQuery 的使用，还好花了一个周末的时间总算好是搞定了，不过 Ajax 和 jQuery 的使用我会在下节来详细描述，本篇还是主要介绍收藏功能的实现。

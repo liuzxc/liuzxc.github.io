@@ -1,8 +1,6 @@
 ---
 title: Mongodb 常用命令
-categories:
-  - mongodb
-  - database
+categories: blog
 ---
 
 ## 远程登录到 mongodb 实例

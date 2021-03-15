@@ -1,7 +1,6 @@
 ---
 title: Mongoid 最佳实践
-categories:
-  - mongodb
+categories: blog
 ---
 
 

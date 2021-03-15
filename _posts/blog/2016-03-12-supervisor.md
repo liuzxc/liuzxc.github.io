@@ -2,7 +2,7 @@
 layout: posts
 title: Supervisor 使用简介
 excerpt: 使用 supervisor 管理进程
-categories: [supervisor]
+categories: blog
 comments: true
 share: true
 ---

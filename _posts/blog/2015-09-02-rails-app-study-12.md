@@ -4,7 +4,7 @@ title:  Rails 应用开发笔记（十二）
 excerpt: 使用 turbolinks 实现网页进度条
 comments: true
 share: true
-categories: [ruby, rails]
+categories: blog
 ---
 
 在做 GitHub 账户登录的过程中碰到一个问题：由于认证过程会接连发送几次 http 请求，在网络不好的情况下，点击登录按钮之后发现没有任何反应，过几秒之后才会进入登录状态。对于一般用户来讲，这样的体验是非常不好的，我们希望有个进度条能够显示当前请求的状态，幸运的是，Rails 自带了 gem 包可以帮助实现这个功能，那就是 turbolinks。

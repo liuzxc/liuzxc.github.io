@@ -1,8 +1,8 @@
 ---
-layout: posts
+layout: post
 title: Ruby 中一些好用的方法
 excerpt: 总结了自己在工作中和 stackoverflow 上学到的一些很有用的方法
-categories: [ruby]
+categories: blog
 comments: true
 share: true
 ---

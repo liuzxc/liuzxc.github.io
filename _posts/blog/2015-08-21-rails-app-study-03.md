@@ -4,7 +4,7 @@ title:  Rails 应用开发笔记（三）
 excerpt: 分页功能的实现
 comments: true
 share: true
-categories: [ruby, rails]
+categories: blog
 ---
 
 只要是web应用的开发，分页的功能都是必不可少的，Rails 强大的社区生态环境诞生了丰富多样的 gem package，

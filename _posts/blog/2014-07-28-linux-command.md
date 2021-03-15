@@ -1,9 +1,9 @@
 ---
-layout: posts
+layout: post
 title: linux 常用命令
 excerpt: linux
 comments: true
-categories: [linux]
+categories: blog
 share: true
 ---
 

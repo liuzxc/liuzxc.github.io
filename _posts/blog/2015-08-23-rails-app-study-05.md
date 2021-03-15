@@ -4,7 +4,7 @@ title:  Rails 应用开发笔记（五）
 excerpt: 在应用中使用 Bootstrap
 comments: true
 share: true
-categories: [ruby, rails]
+categories: blog
 ---
 
 Bootstrap 是最受欢迎的 HTML、CSS 和 JS 框架，用于开发响应式布局、移动设备优先的 WEB 项目，这对

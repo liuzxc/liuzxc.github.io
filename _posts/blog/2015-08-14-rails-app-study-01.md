@@ -4,7 +4,7 @@ title:  Rails 应用开发笔记（一）
 excerpt: 简单介绍如何在 Rails 项目中使用 MongoDB 及模型之间的关联
 comments: true
 share: true
-categories: [ruby, rails]
+categories: blog
 ---
 
 做游戏开发快两年了，项目中使用的数据库一直都是 Mysql ＋ Redis，不过渐渐发现，无论是公司的新项目

@@ -1,9 +1,9 @@
 ---
-layout: posts
+layout: post
 title: Ruby 异常处理
 excerpt: 异常处理
 comments: true
-categories: [ruby]
+categories: blog
 share: true
 ---
 

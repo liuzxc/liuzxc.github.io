@@ -1,9 +1,9 @@
 ---
-layout: posts
+layout: post
 title: sublime 快捷键集合
 excerpt: sublime
 comments: true
-categories: [sublime]
+categories: blog
 share: true
 image:
   feature: sublime_text.jpg

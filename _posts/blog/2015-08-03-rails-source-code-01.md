@@ -4,7 +4,7 @@ title: Rails 源码解读（一）rails console
 excerpt: Rails 源码解读
 comments: true
 share: true
-categories: [ruby, rails]
+categories: blog
 ---
 
 rails console 命令时我们经常使用的，它可以让我们通过命令行很方便的与 Rails 应用进行交互，类似于 irb，

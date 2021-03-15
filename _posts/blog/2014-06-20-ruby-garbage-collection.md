@@ -1,10 +1,10 @@
 ---
-layout: posts
+layout: post
 title: 为什么 Ruby2.0 的垃圾回收器让我们如此兴奋(译文)
 excerpt: 你不会学到任何与 Ruby 相关的编程技巧，但你可以更好的理解垃圾回收器是如何工作的
 comments: true
 share: true
-categories: [ruby]
+categories: blog
 ---
 
 本文由 Jasonliu 翻译自 [Pat Shaughnessy](http://patshaughnessy.net/2012/3/23/why-you-should-be-excited-about-garbage-collection-in-ruby-2-0)。

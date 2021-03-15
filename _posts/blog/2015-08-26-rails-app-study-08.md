@@ -4,7 +4,7 @@ title:  Rails 应用开发笔记（八）
 excerpt: 使用 gravatar 生成用户头像
 comments: true
 share: true
-categories: [ruby, rails]
+categories: blog
 ---
 
 无论是社交网站还是论坛，个性鲜明的头像可以很好的彰显你的个性和增加辨识度，但是对于开发简单的应用而言，

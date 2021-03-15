@@ -3,7 +3,7 @@ layout: posts
 title: go 语言学习笔记（二）
 excerpt: golang
 modified:
-categories: [golang]
+categories: blog
 share: true
 ---
 

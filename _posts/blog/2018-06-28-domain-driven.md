@@ -1,7 +1,6 @@
 ---
 title: 领域驱动设计学习笔记
-categories:
-  - book
+categories: articles
 ---
 
 ### 领域驱动设计——软件核心复杂性应对之道

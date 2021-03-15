@@ -4,7 +4,7 @@ title: 多态与 Ruby
 excerpt: 介绍 Ruby 多态的实现方式
 comments: true
 share: true
-categories: [ruby]
+categories: blog
 ---
 
 原文链接：[back-to-basics-polymorphism-and-ruby](https://robots.thoughtbot.com/back-to-basics-polymorphism-and-ruby)

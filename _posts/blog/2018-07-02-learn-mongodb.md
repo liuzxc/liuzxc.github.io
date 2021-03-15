@@ -1,8 +1,6 @@
 ---
 title: Mongodb 常见问题处理
-categories:
-  - mongodb
-  - database
+categories: blog
 ---
 
 ## 1. How to kill slow query?

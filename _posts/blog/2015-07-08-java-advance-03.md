@@ -2,7 +2,7 @@
 layout: posts
 title: Java 提高篇(三) --- 多态
 excerpt: 方法覆盖和方法重载
-categories: [java]
+categories: blog
 comments: true
 share: true
 ---

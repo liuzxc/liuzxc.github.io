@@ -1,12 +1,15 @@
 # Site wide configuration
 
-title: So Simple Theme
+title: 刘兴起的博客
 locale: en_US
-description: A simple and clean responsive Jekyll theme for words and photos.
+description: 品德第一、感情第二、理性第三
 logo: site-logo.png
 url: https://liuzxc.github.io
 
 # Jekyll configuration
+
+paginate: 10  # amount of posts to show per page
+paginate_path: /page:num/
 
 permalink:   /:categories/:title/
 markdown:    kramdown
@@ -36,18 +39,15 @@ comments: true
 
 # Site owner
 owner:
-  name: Michael Rose
+  name: liuxingqi
   avatar: michael-rose-photo.jpg
-  email: michael@mademistakes.com
-  disqus-shortname: sosimpletheme
+  email: lxq_102172@163.com
+  disqus-shortname: liuzxc
   twitter: mmistakes
   facebook: michaelrose
   github: mmistakes
   stackexchange:
   linkedin:
-  instagram: mmistakes
-  flickr:
-  tumblr: mademistakes
   pinterest:
   weibo:
   google:

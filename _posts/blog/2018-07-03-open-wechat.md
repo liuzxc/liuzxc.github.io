@@ -1,7 +1,6 @@
 ---
 title: 微信公众号开发常见问题处理
-categories:
-  - wechat
+categories: blog
 ---
 
 ## 1. response out of time limit or subscription is canceled hint: (45015)

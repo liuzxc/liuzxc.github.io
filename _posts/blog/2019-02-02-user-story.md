@@ -1,7 +1,6 @@
 ---
 title: "用户故事和敏捷方法"
-tags:
-  - 读书
+categories: articles
 comments: true
 ---
 

@@ -4,7 +4,7 @@ title: Rails 中的事务
 excerpt: 使用事务过程中常见的错误和解决方案
 comments: true
 share: true
-categories: [rails]
+categories: blog
 ---
 
 本文由 Jasonliu 翻译自 [Mark Daggett's Blog](http://markdaggett.com/blog/2011/12/01/transactions-in-rails/)。

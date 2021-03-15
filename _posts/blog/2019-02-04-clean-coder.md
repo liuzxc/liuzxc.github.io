@@ -1,7 +1,6 @@
 ---
 title: "代码整洁之道——程序员的职业素养"
-tags:
-  - 读书
+categories: articles
 comments: true
 ---
 

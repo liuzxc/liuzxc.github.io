@@ -4,7 +4,7 @@ title: Rails 源码解读（二）Active Record
 excerpt: Rails 源码解读
 comments: true
 share: true
-categories: [ruby, rails]
+categories: blog
 ---
 
 #### Active Record 是什么？

@@ -1,8 +1,6 @@
 ---
 title: Mongodb 性能优化
-categories:
-  - mongodb
-  - database
+categories: blog
 ---
 
 ## mongodb 创建索引和查询需要遵循的原则

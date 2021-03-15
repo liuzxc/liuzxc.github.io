@@ -2,7 +2,7 @@
 layout: posts
 title: Ruby 中的类和对象
 excerpt: ruby
-categories: [ruby]
+categories: blog
 comments: true
 share: true
 ---

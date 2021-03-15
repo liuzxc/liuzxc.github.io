@@ -1,8 +1,8 @@
 ---
-layout: posts
+layout: post
 title: Rails 查询数据库的几种方式
 excerpt: Active Record, mysql2
-categories: [ruby, rails]
+categories: blog
 comments: true
 share: true
 ---

@@ -1,12 +1,7 @@
 ---
 title: "如何通过 rails5 的 action cable 实现实时通信"
-tags:
-  - content
-  - css
-  - edge case
-  - lists
-  - markup
-comments: true
+categories: blog
+scomments: true
 ---
 
 1. 什么是 WebSocket？
