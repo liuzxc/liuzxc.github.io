@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: 刘兴起的博客
-locale: en_US
+locale: zh-CN
 description: 品德第一、感情第二、理性第三
 logo: site-logo.png
 url: https://liuzxc.github.io
@@ -43,8 +43,8 @@ owner:
   avatar: michael-rose-photo.jpg
   email: lxq_102172@163.com
   disqus-shortname: liuzxc
-  twitter: mmistakes
-  facebook: michaelrose
+  twitter:
+  facebook:
   github: liuzxc
   stackexchange: liuzxc
   linkedin:
