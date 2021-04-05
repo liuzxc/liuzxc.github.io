@@ -4,6 +4,7 @@ categories: articles
 tags:
 ---
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210403193230953.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl81MjY2MjIzNg==,size_16,color_FFFFFF,t_70#pic_center)
+
 在创业公司的近三年时间里，给我最深的一个领悟就是——**人才是企业发展的核心驱动**。200+的面试经验和带领多个团队的管理经验让我获取了很多宝贵的知识，涵盖招人、用人、裁人、留人这四大部分，我希望将这些总结出来分享给更多的人，也是作为个人经历的一个回顾，无论你是在创业中，还是打算创业，我相信一定会有某些点能给你带来一些启发！
 
 ## 招人篇
